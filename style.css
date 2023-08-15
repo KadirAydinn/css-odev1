@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+article {
+    font-size: 24px;
+}
+
+div {
+    padding: 10px;
+    font-size: 32px;
+}
+
+li  {
+    padding: 20px;
+    font-size: 32px;
+    list-style-position: inside;
+}
+
+p {
+    font-size: 30px;
+}
